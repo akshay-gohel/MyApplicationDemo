@@ -17,6 +17,8 @@ public class Test2 extends AppCompatActivity{
         super.onCreate(savedInstanceState);
 
         System.out.print("Hello");
+
+        System.out.print("Hello2");
     }
 
 }
