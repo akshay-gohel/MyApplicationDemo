@@ -19,6 +19,8 @@ public class Test2 extends AppCompatActivity{
         System.out.print("Hello");
 
         System.out.print("Hello2");
+
+        System.out.print("Hello3");
     }
 
 }
